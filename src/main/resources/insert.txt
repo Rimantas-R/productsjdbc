@@ -1,0 +1,4 @@
+table={some_table}
+name | description
+"petras"|"geras vyras"
+"gavryla"|"ridyska"
